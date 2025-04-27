@@ -7,7 +7,7 @@ public class HellowWorldController {
 			
 			@GetMapping("/arush")
 			public String getMessage(){
-				return "hi hello arush, Gud afternoon";
+				return "hi hello arush, Gud afternoona";
 				
 			}	
 		
